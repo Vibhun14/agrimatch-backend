@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "agrimatch-gemini",
+  "private_key_id": "73e318689fae493662aea8da30c1c0bb74b1d5f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnPf0aEnaW08O2\nUijWLkLt4thCe1tgK+sImXaiK02tAJrUS7TP79d3ZW7//fc7uNrYRqGuIrmLRTNJ\nhfVbNOCDa5GZdooIjT6LcSdbTAxo9niu5fVS8b+EbNlzDJTgaF414PKkLZqPxbNN\nwv2vCULnbnA0eXVY/zlIYoCmRooWRgJ0w1fiovLPQp/psFQxVwi6voIKmTCOwjaJ\nVC7ygG90ty1vSCRsEs+CJrEAEK9XZsf3mD3dMoZti9wL0BmWXlsik66C9Dekd0JU\nZmpH6Dif5iHHfGEGRYbP235Yc+OPcGmuJKL3FR1a0AJIX1XXzKyJSp4kZgOCicfX\nt1Ggk2wlAgMBAAECggEAEbkG9llYidk9FzgTrcbPPuhYJItv/nwI9ytUIBFYtOmo\nfrDbI2H2QmfUYHpoVcLcJikt/wcdBH471iHFA3pSBHtEva+LJybYpuxB0HH5qrHb\nziT+X2DQ+9aRIJkHudQ1j54b+HwAshWwT6BHQ+JGXcIdT+JDJkA9sMcHfRdikMOE\nZikHVnpGSyc3JTpDJtUTYT6svGCGyW9eVRsu63Bi1bR2Pk9wGVYEeu+pskIpyArk\ne0R40tmL2QAai6tZQDZ+MP2kaT1IbgN/G8GngOpmlNJs9UiBZH0EHTTvRcc6GMds\n0z+MgoI87i7hOSJKYGwPSPBEhlfkCrXog7VL5StmjQKBgQDnAoFlIMMGvzY96Lug\nUntSze2KZ4EHHO5icDMM6+RFJdHnd22mg+krEdVm/LRzkzu42T4cYB/kCyl4EuOw\nfmgBWn2rKsZXdTXCc507LO/pW0BwvezIUOK/VyRiXwi/uZHdsRYL1F/gC7otv+s5\n1I2T6h92qTuREynkiqAa70OFbwKBgQC5VYbvDXRCaZCqh6sA3qph+wrp4tFFpQ7/\nwtGV975mKsw1rxn9AxqSrGVRdkLokDTFY/v7/TAr0att0peFwDShiD+wJ0afJpii\nccTmBpbeGLVnB/V0ny4xcFiUcmDJYND1rmG4kQFqQ44E5OtDK3IfZ3zui428ilvT\nK43Y3TPlqwKBgQDaT0XVOgbUo3MxQnW95vTgpfdsKrCG9lJZ+Mpl1a9doYYihny7\nNkHuD+ZqczpdVrDD2ZmW20iIC/xemwtNycekL84/KidSk1QAtZ3LRIZdM31Mjk/s\nZnRCeqnJxSHRfh9ZMHczKrqIUszZW1uCxVoehMzDKN9AFKosbs0rZx2aRQKBgHzY\n9JDMy2iBnIaD5dosJTLj3jI4LSlxS21XW8Bep9BDPFVdo3AhSyFLKOV7eQ8ZNbNS\n60iRAoZCM+1DU/cxx0KZee28R4KmiWPEqBMclT0AABNr9RmesYt0VveJJVIC+kDG\nO+YNKJrg7ya03xbciYBGQo6fS9eajMjwKhnQyUkJAoGBAKPuEmAACpwBcKrTA07k\nTqnHEw8umxB3W+Ie6Wpj0n+KiN8gAiV6TBKcbrfwkyOmNppEeZpp0QWh9KnyPjh5\nU817DkhmPgqLNw9A+ii6SGNwmaXaTNp5KRjzr7q9C7KespzIN7xlPFlMESb2bXcn\nlJqOIUz2LmMCkFaztgkr/t5z\n-----END PRIVATE KEY-----\n",
+  "client_email": "agrimatch-gemini@agrimatch-gemini.iam.gserviceaccount.com",
+  "client_id": "117252450056440072828",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agrimatch-gemini%40agrimatch-gemini.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
